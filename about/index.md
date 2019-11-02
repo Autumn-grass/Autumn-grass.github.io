@@ -24,7 +24,6 @@ It's just a platform to talk to myself, and record my life.
 In terms of study, I will post some of my work, and summary how I learn data science here. Besides, there are might be interesting things happened in my life. 
 
 
-%See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## About my work
 
