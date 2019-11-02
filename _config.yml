@@ -5,7 +5,7 @@ description:        "This is Qian. I create this personal page to record my stud
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/selfie.jpg'
-background:         'assets/img/bg.jpg'
+background:         'assets/img/panda.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://Autumn-grass.github.io/QianWang
