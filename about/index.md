@@ -1,37 +1,33 @@
 ---
 layout: page
-title: About the Theme
+title: This is Qian. You can call me Cathy : )
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://autumn-grass.github.io/QianWang/"><b>This</b></a> is a personal homepage :smile:. </center>
+<center><a href="https://autumn-grass.github.io/QianWang/"><b>This</b></a> is a personal homepage to record my study, work and life. </center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## About myself
+* Msc candidate
+* Mathematics and Statistics
+* Data Science
+* Volleyball
+* Spicy food
+* Fingerstyle guitar
+* Homebody
+* Cinephile
 
-## Preview
+## About this page
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+It's just a platform to talk to myself, and record my life. 
+In terms of study, I will post some of my work, and summary how I learn data science here. Besides, there are might be interesting things happened in my life. 
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
+%See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+## About my work
+
+If you are intersted what kinds of homework a math/stat student are doing, check out the [Homework sample](http://taylantatli.me/Moon/moon-theme/) for more information. 
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+I will keep updating my homepage! Nice to meet you : )
