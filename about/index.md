@@ -5,9 +5,11 @@ tags: [about, Jekyll, theme, moon]
 date: 2019-11-2
 comments: false
 ---
-    
- ![Image](https://github.com/Autumn-grass/QianWang/blob/master/about/food.jpg)  
-<center> The homemade traditional Chinese food I did : ) </center>
+ <figure>
+	<a href="https://github.com/Autumn-grass/QianWang/blob/master/about/food.jpg"><img src="https://github.com/Autumn-grass/QianWang/blob/master/about/food.jpg"></a>
+	<figcaption><a>The homemade traditional Chinese food I did : )</a>.</figcaption>
+</figure>
+ 
 
 ## About myself
 * MSc candidate
