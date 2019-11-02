@@ -2,11 +2,12 @@
 layout: page
 title: This is Qian. You can call me Cathy : )
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2019-11-2
 comments: false
 ---
     
-<center><a href="https://autumn-grass.github.io/QianWang/"><b>This</b></a> is a personal homepage to record my study, work and life. </center>
+ ![Image](https://github.com/Autumn-grass/QianWang/blob/master/about/food.jpg)  
+<center> The homemade traditional Chinese food I did : ) </center>
 
 ## About myself
 * MSc candidate
