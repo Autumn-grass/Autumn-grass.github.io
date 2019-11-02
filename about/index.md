@@ -9,7 +9,7 @@ comments: false
 <center><a href="https://autumn-grass.github.io/QianWang/"><b>This</b></a> is a personal homepage to record my study, work and life. </center>
 
 ## About myself
-* Msc candidate
+* MSc candidate
 * Mathematics and Statistics
 * Data Science
 * Volleyball
