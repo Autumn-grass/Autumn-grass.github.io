@@ -8,4 +8,4 @@ feature: https://www.nicepng.com/png/full/117-1177347_vector-royalty-free-downlo
 comments: true
 ---
 
-[Multivariate Analysis.pdf](https://github.com/Autumn-grass/QianWang/blob/master/docs/Assignment_2.pdf)
+[Multivariate Analysis.pdf]<a href="https://github.com/Autumn-grass/QianWang/blob/master/docs/Assignment_2.pdf" target="_blank">PDF.</a>
