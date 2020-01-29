@@ -2,7 +2,7 @@
 layout: post
 title: "Homework samples"
 date: 2020-01-28
-excerpt: "Some of my work."
+excerpt: "These are some homework reports I did during my master study."
 tags: [math, statistics, data science, homework]
 feature: https://www.nicepng.com/png/full/117-1177347_vector-royalty-free-download-collection-of-clipart-homework.png
 comments: true
