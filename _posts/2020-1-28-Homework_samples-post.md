@@ -9,3 +9,6 @@ comments: true
 ---
 
 <a href="https://github.com/Autumn-grass/QianWang/blob/master/docs/Assignment_2.pdf" target="_blank">Multivariate Analysis.</a>
+
+<a href="https://github.com/Autumn-grass/QianWang/blob/master/docs/Assignment_3_GLM_635.pdf
+" target="_blank">Generalized Linear Models.</a>
