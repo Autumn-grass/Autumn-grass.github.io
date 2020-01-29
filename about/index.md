@@ -1,7 +1,7 @@
 ---
 layout: page
 title: This is Qian. You can call me Cathy : )
-tags: [about, Jekyll, theme, moon]
+tags: [self-introduction]
 date: 2019-11-2
 comments: false
 ---
