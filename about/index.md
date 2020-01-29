@@ -29,6 +29,6 @@ In terms of study, I will post some of my work, and summarize how I learn data s
 
 ## About my work
 
-If you are intersted in what kinds of homework a math/stat student is doing, check out the [homework sample](http://taylantatli.me/Moon/moon-theme/) for more information. 
+If you are intersted in what kinds of homework a math/stat student is doing, check out the [homework sample](https://autumn-grass.github.io/QianWang/Homework_samples-post/) for more information. 
       
 I will keep updating my homepage! Nice to meet you : )
