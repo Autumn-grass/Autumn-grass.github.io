@@ -12,3 +12,8 @@ comments: true
 
 <a href="https://github.com/Autumn-grass/QianWang/blob/master/docs/Assignment_3_GLM_635.pdf
 " target="_blank">Generalized Linear Models.</a>
+
+<a href="http://htmlpreview.github.com/?https://github.com/Autumn-grass/QianWang/blob/master/docs/Assignment%202%20of%20STAT%20641%20_%20Qian%20Wang.html
+" target="_blank">Statistical Learning.</a>
+
+
