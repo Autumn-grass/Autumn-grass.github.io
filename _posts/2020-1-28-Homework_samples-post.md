@@ -16,6 +16,10 @@ comments: true
 <a href="https://nbviewer.jupyter.org/github/Autumn-grass/QianWang/blob/master/docs/Assignment%202%20of%20STAT%20641%20_%20Qian%20Wang.ipynb
 " target="_blank">Statistical Learning.</a>
 
+<a href="https://autumn-grass.github.io/QianWang/docs/MATH_681_HW_2_.pdf
+" target="_blank">Stochastic Calculus for Finance.</a>
+
+
 <!--QianWang/docs/Assignment%202%20of%20STAT%20641%20_%20Qian%20Wang.ipynb
 https://nbviewer.jupyter.org/github/Autumn-grass/QianWang/blob/master/docs/Assignment%202%20of%20STAT%20641%20_%20Qian%20Wang.ipynb-->
 
