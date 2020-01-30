@@ -22,12 +22,11 @@ The homemade traditional Chinese food I did : )
 
 ## About this page
 
-It's just a platform to talk to myself, and record my life. 
-In terms of study, I will post some of my work, and summarize how I learn data science here. Besides, there might be some posts about interesting things happened in my life. 
+It's just a platform to talk to myself and record my life. I will post some of my work, including how I learn data science here. Besides, there might be some interesting things I would love to share. Hope you could know me more from this page!
 
 
 
-## About my work
+## About my major
 
 If you are intersted in what kinds of homework a math/stat student is doing, check out the [homework sample](https://autumn-grass.github.io/QianWang/Homework_samples-post/) for more information. 
       
